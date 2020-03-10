@@ -1,0 +1,59 @@
+.bg {
+	background: url("../images/bg.png");
+	background-position: center 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+}
+
+.my-button{
+	width: 180px;
+    height: 50px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 50px;
+    padding: 1px;
+    background-color: white;
+    color: #f49e8d;
+    text-decoration: none;
+}
+.btn-primary{
+
+    background-color: white;
+    color: #f49e8d;
+    border-color: white;
+}
+.item {
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+.row section {
+	text-align: center;
+	margin: 15px auto;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	margin: 40px auto;
+}
+
+h4{
+	color: white;
+	margin: 10px auto;
+}
+
+p{
+	color: whitesmoke;
+	margin: 10px auto;
+}
